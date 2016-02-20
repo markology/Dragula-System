@@ -3,7 +3,7 @@ import {Hero} from './hero';
 import {HeroService} from  './hero.service';
 import {Router} from 'angular2/router';
 // import {Dragula} from '../node_modules/ng2-dragula/src/app/directives/dragula.directive';
-import {DragulaService, Dragula} from 'ng2-dragula/ng2-dragula';
+import {DragulaService, Dragula} from 'ng2-dragula';
 
 @Component({
 	selector: 'my-dashboard',
