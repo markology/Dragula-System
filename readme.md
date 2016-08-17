@@ -9,3 +9,5 @@
 </blockquote>
 
 <p>This repo fixes an error that occurs when trying to use dragula through System.js. Fix necesary when building a drag and drop section required in an angular2 survey I've built.</code> methods in ES5)</em></sub></p>
+
+In order to use this repo, please fork the above code and follow the instructions provided at <a href="http://bevacqua.github.io/dragula/">http://bevacqua.github.io/dragula/</a>
