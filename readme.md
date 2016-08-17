@@ -8,6 +8,6 @@
 <p>Drag and drop so simple it hurts</p>
 </blockquote>
 
-<p>This repo is an example of the Angular2 tutorial implementing Dragula. System.js does not play as nicely as it should so these changes were neccesary in order to proceed. </code> methods in ES5)</em></sub></p>
+<p>This repo is an example of the Angular2 tutorial implementing the Dragula library. System.js does not play as nicely as it should so these changes were neccesary in order to proceed. </code></em></sub></p>
 
 In order to use this repo, please fork the above code and follow the instructions provided at <a href="http://bevacqua.github.io/dragula/">http://bevacqua.github.io/dragula/</a>
